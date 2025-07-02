@@ -3,6 +3,8 @@ Bash tools to move large folders and reclaim SSD space
 
 # 📦 FolderOffloader Kit for macOS
 
+![FolderOffloader Preview](macos_offloader.png)
+
 A lightweight, automation-friendly toolset to safely offload large folders (like `Downloads`, `Documents`, and `Pictures`) from your Mac’s internal drive to an external volume — using symbolic links for seamless access.
 
 ---
