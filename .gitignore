@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# ZIP builds
+*.zip
+
+# Shell history or temp files
+*.swp
+*.bak
+*.tmp
+
+# Git backup files
+*~
